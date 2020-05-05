@@ -1,0 +1,10 @@
+﻿  源.cpp
+C:\Users\29469\Desktop\Project2\源.cpp(69,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\29469\Desktop\Project2\源.cpp(71,28): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\29469\Desktop\Project2\源.cpp(73,27): warning C4305: “参数”: 从“double”到“GLfloat”截断
+C:\Users\29469\Desktop\Project2\源.cpp(79,59): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\29469\Desktop\Project2\源.cpp(79,38): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\29469\Desktop\Project2\源.cpp(79,17): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\29469\Desktop\Project2\源.cpp(80,35): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\29469\Desktop\Project2\源.cpp(80,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  Project2.vcxproj -> C:\Users\29469\Desktop\Project2\Debug\Project2.exe
